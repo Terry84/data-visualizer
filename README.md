@@ -41,7 +41,7 @@ venv\Scripts\activate        # Windows
 
 pip install -r requirements.txt
 
-## ▶️ **Usage**
+## ▶️ Usage
 
 Run the app with:
 
@@ -51,7 +51,7 @@ streamlit run app.py
 Then open your browser at http://localhost:5000
 .
 
-## 📊** Example Dataset**
+## 📊 Example Dataset
 
 You can upload any CSV with columns like:
 
@@ -65,10 +65,10 @@ Crop_Yield
 
 Food_Production_Index
 
-## 🤝** Contributing**
+## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
-## 📜** License**
+## 📜 License
 
 This project is licensed under the MIT License
