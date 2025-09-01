@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-from utils.data_source import DataSourceManager
+from utils.Data_source import DataSourceManager
 from utils.visualization_helpers import create_hunger_overview_chart, create_malnutrition_chart
 import os
 

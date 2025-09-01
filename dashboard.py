@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import numpy as np
-from utils.data_source import DataSourceManager
+from utils.Data_source import DataSourceManager
 from utils.visualization_helpers import create_world_map, create_trend_chart, create_comparison_chart
 
 st.set_page_config(page_title="Dashboard", page_icon="📊", layout="wide")
