@@ -13,7 +13,9 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded"
 )
-
+# Initialize session state
+if 'data_manager' not in st.session_state:
+    st.session_state.data_manager = DataSourceManager()
 
 # Main page header
 st.title("🌾 SDG Goal 2: Zero Hunger Data Visualization Tool")
