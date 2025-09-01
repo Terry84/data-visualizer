@@ -99,7 +99,7 @@ with col1:
         color_continuous_scale='Reds',
         title="Prevalence of Undernourishment by Region (2023)"
     )
-    fig_hunger.update_xaxis(tickangle=45)
+    fig_hunger.update_xaxes(tickangle=45)
     st.plotly_chart(fig_hunger, use_container_width=True)
 
 with col2:
