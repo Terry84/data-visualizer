@@ -1,32 +1,33 @@
-🥗 Data Visualizer – SDG Goal 2: Zero Hunger
+# 🥗 Data Visualizer – **SDG Goal 2: Zero Hunger**
 
-This project is a data tool for creatives that helps analyze and visualize datasets related to UN Sustainable Development Goal 2 (Zero Hunger).
-It enables users to upload data, explore patterns, and create shareable visualizations that highlight issues around food security, malnutrition, and sustainable agriculture.
+This project is a **data tool for creatives** that helps analyze and visualize datasets related to **UN Sustainable Development Goal 2 (Zero Hunger)**.  
+It enables users to **upload data, explore patterns, and create shareable visualizations** that highlight issues around **food security, malnutrition, and sustainable agriculture**.  
 
-🚀 Features
+---
 
-Upload datasets (CSV format)
+## 🚀 **Features**
+- **Upload datasets** (CSV format)  
+- **Explore data** (summary stats + raw preview)  
+- **Create visualizations** (bar, line, scatter charts)  
+- **Custom themes and templates** for creatives  
+- **Export & share visualizations** *(planned)*  
 
-Explore data (summary stats + raw preview)
+---
 
-Create visualizations (bar, line, scatter charts)
+## 📖 **About SDG Goal 2**
+> *“End hunger, achieve food security and improved nutrition, and promote sustainable agriculture.”* – [United Nations](https://sdgs.un.org/goals/goal2)  
 
-Custom themes and templates for creatives
+This tool helps **journalists, designers, researchers, and creatives** tell compelling stories with data to **advocate for Zero Hunger**.  
 
-Export & share visualizations (planned)
+---
 
-📖 About SDG Goal 2
+## 🛠️ **Installation**
 
-“End hunger, achieve food security and improved nutrition, and promote sustainable agriculture.” – United Nations
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Terry84/data-visualizer.git
+   cd data-visualizer
 
-This tool helps journalists, designers, researchers, and creatives tell compelling stories with data to advocate for Zero Hunger.
-
-🛠️ Installation
-
-Clone the repository:
-
-git clone https://github.com/Terry84/data-visualizer.git
-cd data-visualizer
 
 
 Create a virtual environment (optional but recommended):
