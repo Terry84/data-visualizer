@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
+# Import the dashboard module
+from dashboard import st  # make sure dashboard.py is in the same folder
 from utils.Data_source import DataSourceManager
 from utils.visualization_helpers import create_hunger_overview_chart, create_malnutrition_chart
 import os
